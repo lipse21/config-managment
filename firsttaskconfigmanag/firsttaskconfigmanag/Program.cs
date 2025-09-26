@@ -11,7 +11,7 @@ namespace FirstTaskConfManag
         private static string _startupScriptPath = "";
         private static bool _isInteractiveMode = true;
 
-        static void Main(string[] args)
+        internal static void Main(string[] args)
         {
             Console.WriteLine("=== Конфигурационный менеджер (REPL прототип) ===\n");
 
