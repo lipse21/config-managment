@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "firsttaskconfigmanag": {
+      "commandName": "Project",
+      "commandLineArgs": "FirstTaskConfManag.exe --vfs-root C:\\VFS"
+    }
+  }
+}
