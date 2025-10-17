@@ -2,7 +2,7 @@
   "profiles": {
     "firsttaskconfigmanag": {
       "commandName": "Project",
-      "commandLineArgs": "FirstTaskConfManag.exe --vfs-root C:\\VFS"
+      "commandLineArgs": "FirstTaskConfManag.exe --vfs-root C:\\Games\\config-managment\\firsttaskconfigmanag\\vfs.csv --script C:\\Games\\config-managment\\firsttaskconfigmanag\\test_script.txt"
     }
   }
 }

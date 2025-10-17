@@ -1,0 +1,13 @@
+pwd
+ls
+cd /home/user
+ls
+pwd
+cd /
+pwd
+uname
+uptime
+uptime
+vfs-save C:\Games\config-managment\firsttaskconfigmanag\saved_vfs.csv
+pwd
+exit

@@ -1,0 +1,7 @@
+﻿path,content_base64,is_directory
+/,,true
+/etc,,true
+/etc/hosts,ZXhhbXBsZS5jb20K,false
+/home,,true
+/home/user,,true
+/home/user/motd.txt,SGVsbG8sIFdvcmxkIQo=,false
